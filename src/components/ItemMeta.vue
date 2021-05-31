@@ -4,7 +4,7 @@
       class="thmb"
       v-if="item.images[0]"
       :src="item.images[0].url"
-      alt="KonimBo"
+      alt="Tree of Life"
     />
   </div>
 </template>

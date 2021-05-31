@@ -2,7 +2,7 @@
   <div class="home-page">
     <div class="banner">
       <div class="container">
-        <h1 class="logo-font">KonimBo</h1>
+        <h1 class="logo-font">Tree of Life</h1>
         <p>Sell As Much As You Can.</p>
       </div>
     </div>

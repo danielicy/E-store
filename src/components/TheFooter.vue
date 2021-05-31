@@ -2,7 +2,7 @@
   <footer>
     <div class="container">
       <router-link class="logo-font" :to="{ name: 'home', params: {} }">
-        KonimBo
+        Tree of Life
       </router-link>
       <span class="attribution">
         Are You Ready to Go to the Next Level?
